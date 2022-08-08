@@ -26,6 +26,7 @@ with open('C:/Users/rk401/arglass/dataset/val.txt', 'w') as f:
     
 # .yaml 파일 내의 경로 고치기
 # vscode. txt 등으로 고쳐도 됨
+# yaml 내 경로만 바꾸는 것일 뿐, class 갯수나 name 등은 직접 수정해야함
 import yaml
 with open('C:/Users/rk401/arglass/dataset/data.yaml', 'r') as f:
     data = yaml.load(f, Loader=yaml.FullLoader)
