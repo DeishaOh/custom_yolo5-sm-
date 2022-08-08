@@ -1,0 +1,11 @@
+names:
+- napa_cabbage
+- carrot
+- onion
+- radish
+- daepa
+- jjokpa
+- cutted_napa_cabbage
+nc: 7
+train: /home/rkoh/anaconda3/arglass/datasets/train/images
+val: /home/rkoh/anaconda3/arglass/datasets/val/images
